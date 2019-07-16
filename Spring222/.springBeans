@@ -9,6 +9,7 @@
 	<configs>
 		<config>src/applicationContext1.xml</config>
 		<config>src/applicationContext2.xml</config>
+		<config>src/applicationContext3.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
