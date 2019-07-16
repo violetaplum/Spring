@@ -1,0 +1,13 @@
+package mainpkg;
+
+import lotto.Lotto;
+
+public class KajaLottomain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			Lotto lotto = new Lotto();
+			lotto.kajaLotto("print the numbers!!!   >>>> ");
+	}
+
+}
