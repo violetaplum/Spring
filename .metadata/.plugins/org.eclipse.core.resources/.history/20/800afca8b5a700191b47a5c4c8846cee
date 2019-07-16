@@ -1,0 +1,8 @@
+package weather;
+
+public class Weather1 {
+public String weather(String weather)
+{
+	System.out.println(weather+" rainy!!");
+}
+}

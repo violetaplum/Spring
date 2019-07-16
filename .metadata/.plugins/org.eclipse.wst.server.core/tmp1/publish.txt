@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Jul 16 20:31:40 KST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\KGITBANK\\Desktop\\Spring\\Spring222\\WebContent\\WEB-INF\\lib\\spring-web-4.1.7.RELEASE-sources.jar=WEB-INF/lib/spring-web-4.1.7.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\KGITBANK\\Desktop\\Spring\\Spring222\\WebContent\\WEB-INF\\lib\\spring-web-4.1.7.RELEASE.jar=WEB-INF/lib/spring-web-4.1.7.RELEASE.jar

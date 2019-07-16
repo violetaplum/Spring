@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="050_kaja.jsp" method="post">
+이름 : <input type="text" name="irum">
+나이 : <input type="text" name="na2">
+<input type="submit" value="가자 서버로">
+<input type="reset" value="Cancel">
+</form>
+</body>
+</html>

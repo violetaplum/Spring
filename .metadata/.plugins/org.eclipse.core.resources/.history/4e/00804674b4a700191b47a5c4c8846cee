@@ -1,0 +1,13 @@
+package hello;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			Bangka1 b1 = new Bangka1();
+			b1.bangkabangka1("홍길동");
+			Bangka2 b2 = new Bangka2();
+			b2.bangkabangka2("나도방가?")
+	}
+
+}

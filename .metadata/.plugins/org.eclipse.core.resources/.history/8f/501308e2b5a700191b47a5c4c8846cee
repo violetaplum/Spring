@@ -1,0 +1,22 @@
+package hello;
+import bangka.*;
+import weather.*;
+import date.*;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			Banka1 b1 = new Banka1();
+			b1.kaja ("홍길동");
+			Banka2 b2 = new Banka2();
+			b2.bangkabangka2("나도방가?");
+			
+			Weather1 w1 = new Weather1();
+			w1.weather("todays weather? ");
+			
+			Date1 d1 = new Date1();
+			d1.date("todays date??");
+	}
+
+}
